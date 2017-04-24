@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaOthers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaOthers_jar</output-path>
+    <root id="archive" name="JavaOthers.jar">
+      <element id="artifact" artifact-name="JavaOthers" />
+    </root>
+  </artifact>
+</component>
